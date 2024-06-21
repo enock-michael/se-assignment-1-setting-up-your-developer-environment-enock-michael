@@ -86,8 +86,8 @@ i. Install Git
 •	Run the installer and follow the prompts to install Git.
 ii. Configure Git
 •	Open Git Bash (installed with Git) and run the following commands to set your username and email: 
-•	git config --global user.name "justine-mashaka"
-git config --global user.email "justinmashaka354@gmail.com"
+•	git config --global user.name "enock-michael"
+git config --global user.email "enock-michael@gmail.com"
 iii. Create a GitHub Account
 •	Visit GitHub and sign up for an account if you don't already have one.
 iv. Initialize a Git Repository
